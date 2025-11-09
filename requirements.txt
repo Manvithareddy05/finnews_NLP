@@ -1,0 +1,20 @@
+# --- Core ---
+streamlit==1.50.0
+pandas==2.3.3
+numpy==2.2.6
+plotly==6.3.1
+torch==2.8.0
+transformers==4.57.1
+scipy==1.15.3
+
+# --- NLP ---
+spacy==3.8.7
+nltk==3.9.2
+
+# --- Supporting ---
+requests==2.32.3
+
+# --- spaCy Model (English) ---
+# Streamlit Cloud will automatically download this small model on first run
+# To avoid errors, you can include this installation step in your code or setup
+# en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
