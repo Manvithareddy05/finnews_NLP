@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # --- Core Frameworks ---
 streamlit==1.32.0
 pandas==2.2.2
@@ -17,3 +18,18 @@ nltk==3.8.1
 
 # --- Optional spaCy model ---
 # en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
+=======
+streamlit==1.50.0
+pandas==2.3.3
+numpy==2.2.6
+plotly==6.3.1
+torch==2.4.1
+transformers==4.46.3
+huggingface-hub==0.25.2
+scipy==1.15.3
+spacy==3.8.7
+nltk==3.9.2
+requests==2.32.3
+
+
+>>>>>>> dfd07f7b2db4f65a2c5eb01796b9c4b6e738207c
